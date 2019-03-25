@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Ciguenial</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Arequipa">
+        Tour de 2 días al Valle del Colca y la Cruz del Cóndor
+        Déjate cautivar por los paisajes y pueblos de costumbres ancestrales del Valle del Colca.
+        Además, podrás admirar el majestuoso vuelo del cóndor desde un mirador al filo del cañón.
+    </string>
+
+    <string name="Cuzco">
+        Durante 2 días descubriremos dos de los lugares más mágicos del planeta:
+        el Valle Sagrado de los Incas y el Machu Picchu. Pasearemos por el mercado de Pisac y su zona arqueológica;
+        visitaremos el increíble parque arqueológico de Ollantaytambo;
+        y tomaremos el tren que nos llevará hasta Aguas Calientes a través de un paisaje único.
+        Al día siguiente nos espera una escena fascinante: ver el amanecer desde el Machu Picchu.
+        Tras esto realizaremos una visita guiada por la Ciudadela Inca.
+    </string>
+
+    <string name="Piura">
+        Pasa unos días super relajante en Piura, disfruta de la playa y el sol.
+        Podrá nadar con las tortugas verdes marinas en la caleta del Ñuro, observar el sunset en la mágica playa de los órganos.
+        Visitaremos los Manglares de Tumbes. Isla del Amor , isla hueso de Ballena, isla de los pajaros, Zoo criadero de cocodrilos
+        Disfruta de las paradisíacas playas de Máncora y Punta Sal.
+    </string>
+
+    <string name="Trujillo">
+        Es tu oportunidad de conocer el encanto de Trujillo, la ciudad de la eterna primavera.
+        Visita Chan Chan, la ciudad de adobe más grande de América y capital de la cultura Chimú.
+        Conoce a fondo la historia del dignatario de la jerarquía Mochica: el Señor de Sipán.
+        Recorre el complejo arqueológico El Brujo, el más importante y antiguo de la costa norte del Perú.
+    </string>
+</resources>
